@@ -104,6 +104,7 @@ endmodule
 ## ENCODER
 ### RTL LOGIC  
 
+![image](https://user-images.githubusercontent.com/94219798/171609049-c46337dc-8ef8-4acd-ade6-e4ba03e20080.png)
 
 
 
@@ -113,24 +114,27 @@ endmodule
 ### TIMING DIGRAMS  
 
 
+![image](https://user-images.githubusercontent.com/94219798/171609079-bc2601fa-f309-48da-afd4-e77dd5f2ba32.png)
 
 
 
 ### TRUTH TABLE 
+![image](https://user-images.githubusercontent.com/94219798/171609095-0e54e128-efa3-424a-bdd7-39a3a8dc33b0.png)
 
 
 ## DECODER
 ### RTL LOGIC
 
+![image](https://user-images.githubusercontent.com/94219798/171609125-64c7ae5e-2c6e-4ebd-afd1-028922ed577f.png)
 
 
 ### TIMING DIAGRAM
-![encodertt](https://user-images.githubusercontent.com/94219798/171608474-23b6a990-48fd-43ad-ad0d-84615d7f17e1.png)
 
-
+![image](https://user-images.githubusercontent.com/94219798/171609177-20654c87-d91e-444b-960b-754ae6ea01ce.png)
 
 ### TRUTH TABLE
 
+![image](https://user-images.githubusercontent.com/94219798/171609209-c1525da5-e476-4427-812a-d92e5fb31161.png)
 
 
 ### RESULTS 
