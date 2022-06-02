@@ -97,45 +97,25 @@ assign d7 = (a&b&c);
 endmodule
 ```
 
-
-
-
-
 ## ENCODER
 ### RTL LOGIC  
-
 ![image](https://user-images.githubusercontent.com/94219798/171609049-c46337dc-8ef8-4acd-ade6-e4ba03e20080.png)
 
-
-
-
-
-
 ### TIMING DIGRAMS  
-
-
 ![image](https://user-images.githubusercontent.com/94219798/171609079-bc2601fa-f309-48da-afd4-e77dd5f2ba32.png)
 
-
-
 ### TRUTH TABLE 
-![image](https://user-images.githubusercontent.com/94219798/171609095-0e54e128-efa3-424a-bdd7-39a3a8dc33b0.png)
-
+![171660297-0a827cd4-11b2-4b7b-80bf-6a790209d295](https://user-images.githubusercontent.com/94219798/171674281-1c72b1aa-35fd-4823-ba0b-7a4965ca6cd4.png)
 
 ## DECODER
 ### RTL LOGIC
-
 ![image](https://user-images.githubusercontent.com/94219798/171609125-64c7ae5e-2c6e-4ebd-afd1-028922ed577f.png)
 
-
 ### TIMING DIAGRAM
-
 ![image](https://user-images.githubusercontent.com/94219798/171609177-20654c87-d91e-444b-960b-754ae6ea01ce.png)
 
 ### TRUTH TABLE
-
-![image](https://user-images.githubusercontent.com/94219798/171609209-c1525da5-e476-4427-812a-d92e5fb31161.png)
-
+![171660478-4e762fab-716f-4b63-96b3-41c1b3dcc0bd](https://user-images.githubusercontent.com/94219798/171674372-1a21a3f5-ad86-4f29-9b47-a3525475f5a4.jpg)
 
 ### RESULTS 
 Thus, 8 to 3 Encoder and  3 to 8 Decoder is implemented using verilog and its outputs is validated.
