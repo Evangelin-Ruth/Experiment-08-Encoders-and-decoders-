@@ -70,9 +70,9 @@ Program for Endocers and Decoders  and verify its truth table in quartus using V
 Developed by: Evangelin.S 
 RegisterNumber: 212221230025 
 */
-```
+
 ## Encoder
-```
+
 module encoder(a,b,c,d0,d1,d2,d3,d4,d5,d6,d7);
 input d0,d1,d2,d3,d4,d5,d6,d7;
 output a,b,c;
@@ -80,9 +80,9 @@ or(a,d4,d5,d6,d7);
 or(b,d2,d3,d6,d7);
 or(c,d1,d3,d5,d7);
 endmodule
-```
+
 ## Decoder
-```
+
 module decoder(d0,d1,d2,d3,d4,d5,d6,d7,a,b,c);
 input a,b,c;
 output d0,d1,d2,d3,d4,d5,d6,d7;
